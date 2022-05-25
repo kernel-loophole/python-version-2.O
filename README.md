@@ -14,6 +14,8 @@ def check_match(string):
             case _:
                 print("string is not abc and xyz")
 ```
+# Iter() 
+One useful application of the second form of iter() is to build a block-reader. 
 ```python
 from functools import partial
 #One useful application of the second form of iter() is to build a block-reader. 
