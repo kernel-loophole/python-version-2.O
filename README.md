@@ -1,7 +1,7 @@
-# python-version-2.O
-updated
-# what's new in 2.o
+
+# what's new in 2.o repo
 # Match statement
+work faster as compare to else if
 ```python
 def check_match(string):
     check_list=["abc","xyz","none","etc"]
