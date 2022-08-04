@@ -26,3 +26,4 @@ with open("/home/hiader/Desktop/code/fruit_data_with_colors.txt","rb") as f:
 print(locals())
 print(globals())
 ```
+
