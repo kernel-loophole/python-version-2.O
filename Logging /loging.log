@@ -1,0 +1,15 @@
+INFO:root:starting
+INFO:root:return from function
+INFO:root:in mul function
+INFO:root:in sub function
+INFO:root:ending
+2022-09-09 12:42:39,225 starting
+2022-09-09 12:42:39,226 return from function
+2022-09-09 12:42:39,226 in mul function
+2022-09-09 12:42:39,226 in sub function
+2022-09-09 12:42:39,226 ending
+2022-09-09 12:42:55,710 starting
+2022-09-09 12:42:55,710 return from function
+2022-09-09 12:42:55,710 in mul function
+2022-09-09 12:42:55,710 in sub function
+2022-09-09 12:42:55,710 ending
